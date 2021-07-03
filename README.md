@@ -1,5 +1,4 @@
 # GeoreferenceRasters
 
-![alt text](https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/RasterData/PointCloud1921a.jpg)
+<img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/Export02.jpgg" width="100%">
 
-https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/Export02.jpg
