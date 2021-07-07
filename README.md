@@ -8,6 +8,8 @@ The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour re
 
 ## Fine-tuning with Function_ControlPointReticle
 
+<img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/ControlPointReticle.jpg" width="100%">
+
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelA.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelB.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelC.gif" width="100%">
