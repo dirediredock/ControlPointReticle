@@ -4,7 +4,7 @@ Shared here is small part of my PhD project funded by a Mitacs fellowship at the
 
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/IntertidalLoss.jpg" width="100%">
 
-The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour region as it is in 2020 (blue, present state) and the reconstructed state circa 1880 (red, proxy for the pre-contact state).
+The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour region as it is in 2020 (blue, present state) and the reconstructed pre-urban state circa 1880 (red, proxy for the pre-contact state).
 
 ## Fine-tuning with Function_ControlPointReticle
 
