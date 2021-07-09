@@ -15,6 +15,7 @@ The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour re
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelC.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelD.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelE.gif" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/allPanels.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/Mosaic.png" width="100%">
 
 <br>
