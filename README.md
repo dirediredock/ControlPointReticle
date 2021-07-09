@@ -16,6 +16,8 @@ The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour re
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelD.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelE.gif" width="100%">
 
+The script `PartOne_VectorizeRasters.m` converts cropped rasters of the original [PanelA](https://github.com/dirediredock/GeoreferenceRasters/blob/main/RasterData/Originals/PanelA.jpg), [PanelB](https://github.com/dirediredock/GeoreferenceRasters/blob/main/RasterData/Originals/PanelB.jpg), [PanelC](https://github.com/dirediredock/GeoreferenceRasters/blob/main/RasterData/Originals/PanelC.jpg), [PanelD](https://github.com/dirediredock/GeoreferenceRasters/blob/main/RasterData/Originals/PanelD.jpg), and [PanelE](https://github.com/dirediredock/GeoreferenceRasters/blob/main/RasterData/Originals/PanelE.jpg) into vector point clouds in XY tall format.
+
 ## Final run and mosaic
 
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/allPanels.gif" width="100%">
