@@ -6,7 +6,7 @@ Shared here is small part of my PhD project funded by a Mitacs fellowship at the
 
 The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour region as it is in 2020 (blue, present state) and the reconstructed pre-urban state circa 1880 (red, proxy for the pre-contact state).
 
-## Fine-tuning with Function_ControlPointReticle
+## Fine-tuning error with Function_ControlPointReticle
 
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/ControlPointReticle.jpg" width="100%">
 
@@ -15,6 +15,9 @@ The figure above shows Metro Vancouver's intertidal zone in the Inner Harbour re
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelC.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelD.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/PanelE.gif" width="100%">
+
+## Final run and mosaic
+
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/allPanels.gif" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/Mosaic.png" width="100%">
 
