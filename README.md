@@ -1,4 +1,4 @@
-# GeoreferenceRasters
+# ControlPointReticle Tool
 
 Shared here is small part of my PhD project funded by a Mitacs fellowship at the Global Ocean Modelling Lab (GOM) of The University of British Columbia (UBC), in partnership with Tsleil-Waututh Nation (TWN) and engineering consultants Kerr Wood Leidal Associates (KWL), and part of TWN’s Cumulative Effects Monitoring Initiative (CEMI). Using old raster maps and georeferencing techniques, this repo hosts the methods to reconstruct the pre-contact state of Tseil-Waut Inlet (known today as Burrard Inlet), the main waterway of Vancouver Harbour, Canada's largest and busiest port. With the completed reconstruction I discovered a 45% decrease in intertidal habitat due to Metro Vancouver's urban and port growth over the past 150 years.
 
